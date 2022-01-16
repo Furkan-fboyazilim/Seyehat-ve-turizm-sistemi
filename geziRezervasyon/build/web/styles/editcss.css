@@ -1,0 +1,69 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20.Ara.2021, 21:21:01
+    Author     : P1999
+*/
+
+.editdiv{
+    background-color:whitesmoke;
+    height:500px;
+    width:800px;
+    float:left;
+    padding:5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+.editmain{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    /*background-color: lightcyan;*/
+    margin: 15px;
+}
+.btnedits {
+  background-color:white;
+  color: green;
+  padding: 10px 15px;
+  margin: 30px 20px 20px 0;
+  border: none;
+  cursor: pointer;
+  width: 200px;
+  opacity: 0.9;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 20px;
+}
+input{
+    margin-bottom: 12px;
+    padding: 5px;
+    margin-left: 20px;
+    font-size: 18px;
+    width: 200px;
+}
+.baslik{
+    background-color: black;
+    color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+    
+}
+#btnexit{
+    width: 250px;
+    background-color:red;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px;
+    
+}

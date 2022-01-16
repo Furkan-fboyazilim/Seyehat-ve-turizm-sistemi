@@ -1,0 +1,126 @@
+header {
+    display: flex;
+    background-color:black;
+    color:white;
+   justify-content: space-around;
+    padding:5px;
+    height: 140px;
+    border:3px solid black;  
+    align-items: center;
+}
+.main{
+    margin: 20px;
+}
+.girdiler{
+    line-height:30px;
+    background-color:whitesmoke;
+    height:650px;
+    width:30%;
+    float:left;
+    padding:5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 10px;
+    
+}
+.geziler {
+    margin-left:10px;
+    width:65%;
+    float:left;
+    padding:10px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+input{
+    margin-bottom: 30px;
+    padding: 10px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+#btnexit{
+    width: 200px;
+    background-color:red;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.geziCart{
+    background-color: white;
+    width: 300px;
+    text-align: center;
+    float: left;
+    margin: 50px;
+    border: 2px solid blue;
+    border-radius: 20px;
+    overflow: hidden;
+    font-size: 20px;
+    font-weight: bold;
+    height: 450px;
+    
+}
+.btnEkle{
+     width: 200px;
+    background-color:lightgoldenrodyellow;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+}
+.editdiv{
+    line-height:30px;
+    background-color:#eeeeee;
+    height:650px;
+    width:40%;
+    float:left;
+    padding:5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 10px;
+}
+.editmain{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+    background-color: wheat;
+}
+.btnedits {
+  background-color: goldenrod;
+  color: blue;
+  padding: 16px 20px;
+  margin: 6px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  border: 2px solid blue;
+  border-radius: 5px;
+  font-size: 20px;
+}
+img{
+    margin-top: 15px;
+    height: 120px;
+    width: 220px;
+}
+.btnSec{
+      width: 150px;
+    background-color:lightgray;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
